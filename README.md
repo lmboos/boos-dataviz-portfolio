@@ -20,7 +20,7 @@ I have never considered myself to be a particularly creative person, but in just
 
 ## Assignments
 
-### Assignment Example: [Visualizing overnment Debt](visualizing-government-debt)
+### Assignment Example: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ### Assignment 3&4 Example: [Critique by Design](critique-by-design)
