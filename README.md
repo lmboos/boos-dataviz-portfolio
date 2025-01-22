@@ -7,7 +7,7 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 Hi! I am a Masters of Information Systems Management with a focus in Business Intelligence and Data Analytics (MISM-BIDA) student at Heinz College, CMU. I am in my first year and will graduate in May 2026. I have experience in Java, Python, finance analytics, and statistical analysis. I am trying to expand my knowledge from conducting analyses to how to display it by taking this course.  
 
 <div align="center">
-  <img src="Portfolio Photo.jpg" width="200"/>
+  <img src="Portfolio Photo.jpg" width="400"/>
 </div>
 
 # What I Hope to Learn
