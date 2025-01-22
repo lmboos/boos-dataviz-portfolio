@@ -6,6 +6,10 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 # About Me
 Hi! I am a Masters of Information Systems Management with a focus in Business Intelligence and Data Analytics (MISM-BIDA) student at Heinz College, CMU. I am in my first year and will graduate in May 2026. I have experience in Java, Python, finance analytics, and statistical analysis. I am trying to expand my knowledge from conducting analyses to how to display it by taking this course.  
 
+<div align="center">
+  <img src="Portfolio Photo.jpg" width="200"/>
+</div>
+
 # What I Hope to Learn
 I have never considered myself to be a particularly creative person, but in just a few classes (and required reading assignments) I have come to realize you do not need to be an artist to produce good visuals. In critiques, a lot of the issues that arise can be identified by the average person because of how the human brain processes information. Additionally, with the rise of social media in our everyday lives, we are developing opinions on what we like and do not like visually even if we do not realize it. With all that being said, here are the top three things I hope to learn in the next few weeks:
 
