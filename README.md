@@ -14,6 +14,11 @@ I have never considered myself to be a particularly creative person, but in just
 - Discover new styles of charts for representing data
 
 # Portfolio
+## Challenge Exercises
+
+## In Class Critiques
+
+## Homeworks
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
