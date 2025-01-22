@@ -1,30 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University (CMU).  Here's where all my original and reworked creative data visualizations will go to live. Enjoy exploring!
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+# About Me
+Hi! I am a Masters of Information Systems Management with a focus in Business Intelligence and Data Analytics (MISM-BIDA) student at Heinz College, CMU. I am in my first year and will graduate in May 2026. I have experience in Java, Python, finance analytics, and statistical analysis. I am trying to expand my knowledge from conducting analyses to how to display it by taking this course.  
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+# What I Hope to Learn
+I have never considered myself to be a particularly creative person, but in just a few classes (and required reading assignments) I have come to realize you do not need to be an artist to produce good visuals. In critiques, a lot of the issues that arise can be identified by the average person because of how the human brain processes information. Additionally, with the rise of social media in our everyday lives, we are developing opinions on what we like and do not like visually even if we do not realize it. With all that being said, here are the top three things I hope to learn in the next few weeks:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- Create engaging visualizations that draw in the reader rather than cause them to gloss it over
+- Find the balance between simple yet effective visuals
+- Discover new styles of charts for representing data
 
 # Portfolio
 
