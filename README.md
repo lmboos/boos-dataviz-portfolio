@@ -25,15 +25,26 @@ I have never considered myself to be a particularly creative person, but in just
 
 ### [Visualizing Government Debt](visualizing-government-debt)               
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1737937598356');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1900px';vizElement.style.height='977px';} 
-  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1900px';vizElement.style.height='977px';} 
-  else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  document.addEventListener('DOMContentLoaded', function() {
+    var divElement = document.getElementById('viz1737937598356');                    
+    if (divElement) {
+      var vizElement = divElement.getElementsByTagName('object')[0];                    
+      if (divElement.offsetWidth > 800) { 
+        vizElement.style.width = '1900px';
+        vizElement.style.height = '977px';
+      } else { 
+        vizElement.style.width = '100%';
+        vizElement.style.height = '727px';
+      }                     
+      var scriptElement = document.createElement('script');                    
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+      vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+    } else {
+      console.error('Element with ID "viz1737937598356" not found.');
+    }
+  });
 </script>
+
 
 
 ### Assignment 3&4 Example: [Critique by Design](critique-by-design)
