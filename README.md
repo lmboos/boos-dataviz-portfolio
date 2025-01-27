@@ -23,7 +23,7 @@ I have never considered myself to be a particularly creative person, but in just
 
 ## Assignments
 
-### <a href="https://public.tableau.com/app/profile/lauren.boos7787/viz/GovernmentDebtDashboard/GovernmentDebtVisualization" target="_blank">Visualizing Government Debt</a></p>
+### <a href="https://public.tableau.com/app/profile/lauren.boos7787/viz/GovernmentDebtDashboard/GovernmentDebtVisualization" target="_blank">Visualizing Government Debt</a>
            
 <div class='tableauPlaceholder' id='viz1737937988975' style='position: relative'>
   <noscript>
