@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three,md) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Viz Examples](data-viz-examples.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three,md) |
 
 # In-class Data Visualizations
 
