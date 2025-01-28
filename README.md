@@ -17,7 +17,7 @@ I have never considered myself to be a particularly creative person, but in just
 - Discover new styles of charts for representing data
 
 # Portfolio
-## Challenge Exercises
+## [Challenge Exercises](challenge-exercises.md)
 
 ## In Class Critiques
 
