@@ -1,4 +1,4 @@
-| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples.md) | [Critique By Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University (CMU).  Here's where all my original and reworked creative data visualizations will go to live. Enjoy exploring!
 
@@ -23,7 +23,7 @@ I have never considered myself to be a particularly creative person, but in just
 
 ## Assignments
 
-### [Visualizing Government Debt](visualizing-government-debt)           
+### [Visualizing Government Debt](visualizing-government-debt.md)           
 
 ### Assignment 3&4 Example: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
