@@ -26,8 +26,8 @@ Text here...
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
-|------|-----|-------------|
-|   National Park Service - Entrance Fees by Park   |  https://www.nps.gov/aboutus/entrance-fee-prices.htm   |      Identifies fees for each National Park service site       |
+|---------|--------|----------------|
+| National Park Service - Entrance Fees by Park | https://www.nps.gov/aboutus/entrance-fee-prices.htm   | Identifies fees for each National Park service site |
 |      |     |             |
 |      |     |             |
 
