@@ -1,13 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+> Summary: 
  
-Text here...
+As an avid traveler and lover of planning, I want to create a visualization related to picking the best travel spot. As this is a broad topic, I narrowed it down to US National Parks during the first week of summer break (May 5 - 9, 2025). I will use visualizations to map out locations of these parks, compare prices of factors such as travel, accommodation, and food, and rank the level of importance for each consideration. The US has a total of 63 National Parks, which is quite a large number to produce data for. Instead, I plan on narrowing it down to the top five or ten destinations based on a mix of popularity, my personal interests, and variety amongst the parks. The project name is "Finding the Perfect National Park Destination". 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+> Project Structure:  
 
-Text here...
+Set-up - Identify the locations of the parks being considered. Present their accessibility to nearest airports and whether permits are required. Along with this, I will start the comparison of flight prices, rental cars, lodging, food, visitation, and restaurants. This will provide all the background information necessary to start the process of narrowing down the best destination.
+
+Conflict - Choosing which National Park is best! I will create a metric (that is probably biased) that weighs certain aspects in comparison to others. This metric will likely look at price, popularity (number of people), temperature, and others.
+
+Resolution - Having followed the metric created during conflict stage, I will present which National Park is best and why.  
 
 # Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
