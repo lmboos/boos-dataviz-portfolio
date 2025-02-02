@@ -28,8 +28,11 @@ Text here...
 | Name | URL | Description |
 |---------|--------|----------------|
 | National Park Service - Entrance Fees by Park | https://www.nps.gov/aboutus/entrance-fee-prices.htm   | Identifies fees for each National Park service site |
-|      |     |             |
-|      |     |             |
+| Google Flights | https://www.google.com/travel/flights | Provides price for flight information |
+| Kayak | https://www.kayak.com    | Compare rental car and lodging prices for travel destinations |
+| NPS Stats | https://irma.nps.gov/Stats/ | View annual or monthly visitor rates for National Park service sites |
+| Destination Parks | https://www.destinationparks.com/resource/weather-averages-national-parks.php | National Park weather averages by month |
+| Google Maps | https://www.google.com/maps | See nearby restaurants and airpots |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
