@@ -7,11 +7,11 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 
 > Project Structure:  
 
-Set-up - Identify the locations of the parks being considered. Present their accessibility to nearest airports and whether permits are required. Along with this, I will start the comparison of flight prices, rental cars, lodging, food, visitation, and restaurants. This will provide all the background information necessary to start the process of narrowing down the best destination.
+**Set-up** - Identify the locations of the parks being considered. Present their accessibility to nearest airports and whether permits are required. Along with this, I will start the comparison of flight prices, rental cars, lodging, food, visitation, and restaurants. This will provide all the background information necessary to start the process of narrowing down the best destination.
 
-Conflict - Choosing which National Park is best! I will create a metric (that is probably biased) that weighs certain aspects in comparison to others. This metric will likely look at price, popularity (number of people), temperature, and others.
+**Conflict** - Choosing which National Park is best! I will create a metric (that is probably biased) that weighs certain aspects in comparison to others. This metric will likely look at price, popularity (number of people), temperature, and food variety.
 
-Resolution - Having followed the metric created during conflict stage, I will present which National Park is best and why.  
+**Resolution** - Having followed the metric created during conflict stage, I will present which National Park is best and why.  
 
 # Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -27,7 +27,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|   National Park Service - Entrance Fees by Park   |  https://www.nps.gov/aboutus/entrance-fee-prices.htm   |      Identifies fees for each National Park service site       |
 |      |     |             |
 |      |     |             |
 
