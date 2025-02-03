@@ -1,4 +1,6 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples.md) | [Critique By Design](critique-by-design.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+
+## Final Project Part I
 
 # Outline
 > Summary: 
