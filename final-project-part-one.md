@@ -19,11 +19,9 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I will pull data primarily from travel sites and the National Park Service site. Most of it will be manual extraction, though a few sites have compiled data that I can download and further refine for my use.
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+> Sources of data:
 
 | Name | URL | Description |
 |---------|--------|----------------|
@@ -35,9 +33,7 @@ Text here...
 | Google Maps | https://www.google.com/maps | See nearby restaurants and airpots |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+To present the final project, I will use Tableau to create the data presentations and Shorthand for telling the story.
 
 ## References
 _List any references you used here._
