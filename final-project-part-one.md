@@ -19,7 +19,7 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 > Below are my intial sketches, including descriptions and chart types that follow the outline flow. 
 
 <div align="left">
-  <img src="Sketch Page 1.jpg" height = 1000/>
+  <img src="Sketch Page 1.jpg" height = 750/>
 </div>
 
 <div align="center">
