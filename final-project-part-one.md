@@ -18,7 +18,17 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<div align="left">
+  <img src="Sketch Page 1.jpg"/>
+</div>
+
+<div align="center">
+  <img src="Sketch Page 2.jpg"/>
+</div>
+
+<div align="right">
+  <img src="Sketch Page 3.jpg"/>
+</div>
 
 ## The data
 I will pull data primarily from travel sites and the National Park Service site. Most of it will be manual extraction, though a few sites have compiled data that I can download and further refine for my use. Below lists the data sources gathered from initial searches. The first three in the table I will download and visualize in a new way. For the following four, I will pull data manually from the source then create a CSV to upload into Tableau.
