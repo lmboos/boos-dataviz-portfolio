@@ -5,7 +5,7 @@
 ## Outline
 > Summary: 
  
-As an avid traveler and lover of planning, I want to create a visualization related to picking the best travel spot. As this is a broad topic, I narrowed it down to US National Parks during summer break (May- August). I will use visualizations to map out locations of these parks, compare prices of factors such as travel, accommodation, and food, then rank the level of importance for each consideration. The US has a total of 63 National Parks, which is quite a large number to produce data for. Instead, I plan on narrowing it down to the top five or ten destinations based on a mix of popularity, my personal interests, and variety amongst the parks. The project name is "Process of Finding the Perfect National Park Destination". 
+As an avid traveler and lover of planning, I want to create a visualization related to picking the best travel spot. As this is a broad topic, I narrowed it down to US National Parks during summer break (May - August). I will use visualizations to map out locations of these parks, compare prices of factors such as travel, accommodation, and food, then rank the level of importance for each consideration. The US has a total of 63 National Parks, which is quite a large number to produce data for. Instead, I plan on narrowing it down to the top five or ten destinations based on a mix of popularity, my personal interests, and variety amongst the parks. The project name is "Process of Finding the Perfect National Park Destination". 
 
 > Project Structure:  
 
@@ -19,7 +19,7 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 > Below are my intial sketches, including descriptions and chart types that follow the outline flow. 
 
 <div align="left">
-  <img src="Sketch Page 1.jpg"/>
+  <img src="Sketch Page 1.jpg" height = 1000/>
 </div>
 
 <div align="center">
