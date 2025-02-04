@@ -27,7 +27,7 @@ I will pull data primarily from travel sites and the National Park Service site.
 
 | Name | URL | Description |
 |---------|--------|----------------|
-| National Park Service - Entrance Fees by Park | https://www.nps.gov/aboutus/entrance-fee-prices.htm   | Identifies fees for each National Park service site |
+| National Park Service | https://www.nps.gov/aboutus/entrance-fee-prices.htm   | Identifies fees for each National Park service site |
 | NPS Stats | https://irma.nps.gov/Stats/ | View annual or monthly visitor rates for National Park service sites |
 | Statista | https://www.statista.com/statistics/220975/average-spending-in-regions-around-us-national-parks/ | Provides average spending at national park by year |
 | Google Flights | https://www.google.com/travel/flights | Provides price for flight information |
