@@ -9,11 +9,11 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 
 > Project Structure:  
 
-**Set-up** - Identify the locations of the parks being considered. Present their accessibility to nearest airports and whether permits are required. Along with this, I will start the comparison of flight prices, rental cars, lodging, food, visitation, and restaurants. This will provide all the background information necessary to start the process of narrowing down the best destination.
+**Set-up** - Identify the locations of the parks being considered. Present their accessibility to nearest airports and whether permits are required. Along with this, I will start the comparison of flight prices, rental cars, lodging, food options, and visitation rates. This initial data representation will provide the background information necessary to start the process of narrowing down the best destination.
 
-**Conflict** - Choosing which National Park is best! I will create a metric (that is probably biased) that weighs certain aspects in comparison to others. This metric will likely look at price, popularity (number of people), temperature, and food variety.
+**Conflict** - Choosing which National Park is best! I will create a metric that weighs certain aspects in comparison to others. This metric will likely look at price, popularity (number of people), temperature, and food variety. From here, I will rank the options based on how they fit the metric criteria. 
 
-**Resolution** - Having followed the metric created during conflict stage, I will present which National Park is best and why.  
+**Resolution** - Having followed the metric created during conflict stage, I will present which National Park is best and why. In this section, I will finish with the call to action, suggesting viewers utilize methods similar to the story shown here, or redirect them to the National Park Website for personal research.  
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -21,24 +21,25 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 Text here...
 
 ## The data
-I will pull data primarily from travel sites and the National Park Service site. Most of it will be manual extraction, though a few sites have compiled data that I can download and further refine for my use.
+I will pull data primarily from travel sites and the National Park Service site. Most of it will be manual extraction, though a few sites have compiled data that I can download and further refine for my use. Below lists the data sources gathered from initial searches. The first three in the table I will download and visualize in a new way. For the following four, I will pull data manually from the source then create a CSV to upload into Tableau.
 
 > Sources of data:
 
 | Name | URL | Description |
 |---------|--------|----------------|
 | National Park Service - Entrance Fees by Park | https://www.nps.gov/aboutus/entrance-fee-prices.htm   | Identifies fees for each National Park service site |
+| NPS Stats | https://irma.nps.gov/Stats/ | View annual or monthly visitor rates for National Park service sites |
+| Statista | https://www.statista.com/statistics/220975/average-spending-in-regions-around-us-national-parks/ | Provides average spending at national park by year |
 | Google Flights | https://www.google.com/travel/flights | Provides price for flight information |
 | Kayak | https://www.kayak.com    | Compare rental car and lodging prices for travel destinations |
-| NPS Stats | https://irma.nps.gov/Stats/ | View annual or monthly visitor rates for National Park service sites |
 | Destination Parks | https://www.destinationparks.com/resource/weather-averages-national-parks.php | National Park weather averages by month |
-| Google Maps | https://www.google.com/maps | See nearby restaurants and airpots |
+| Google Maps | https://www.google.com/maps | See proximity to restaurants and airpots |
 
 ## Method and medium
-To present the final project, I will use Tableau to create the data presentations and Shorthand for telling the story.
+To present the final project, I will use Tableau to create the data presentations and Shorthand for telling the story. Additionally, I may explore Flourish as an alternate way to visualize data.
 
 ### References
-_List any references you used here._
+No references used for Part I of the final project.
 
 ### AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+No AI used for Part I of the final project.
