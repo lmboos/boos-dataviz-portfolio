@@ -16,7 +16,7 @@ As an avid traveler and lover of planning, I want to create a visualization rela
 **Resolution** - Having followed the metric created during the set-up process, I will present which National Park is best and why. In this section, I will finish with the call to action, suggesting viewers utilize methods similar to the story shown here, or redirect them to the National Park Website for personal research. I also plan on including photos of the winning park to showcase the beauty of "my next travel destination".  
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Below are my intial sketches, including descriptions and chart types that follow the outline flow. 
 
 <div align="left">
   <img src="Sketch Page 1.jpg"/>
