@@ -23,7 +23,9 @@ I have never considered myself to be a particularly creative person, but in just
 
 ## Assignments
 
-### [Visualizing Government Debt](visualizing-government-debt.md)           
+### [Visualizing Government Debt](visualizing-government-debt.md)    
+
+### [Sketching Exercises](sketches.md)
 
 ### Assignment 3&4 Example: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
