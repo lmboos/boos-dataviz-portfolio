@@ -112,5 +112,5 @@ Conte, Niccolo. “Ranked: Top 10 Countries by Military Spending.” Visual Capi
 "SIPRI Military Expenditure Database 2024, https://www.sipri.org/databases/milex" 
 
 ## AI acknowledgements
-I utilized ChatGPT to help guide me on some of the tableau functionalities when I got stuck. For the symbol map, originally the percentages were displayed as decimals so I asked how I would fix that and it explained when I right click on the percentage, choose format, and in the numbers section I changed it from decimal to percentage. For the stacked area chart, originally there was no sorting by dollar amount. It explained that in the marks card I could select sort from the country drop down menu. From there, I could sort ascending or descending by the field of my choosing.
+I utilized ChatGPT to help guide me on some of the Tableau functionalities when I got stuck. For the symbol map, originally the percentages were displayed as decimals so I asked how I would fix that and it explained when I right click on the percentage, choose format, and in the numbers section I changed it from decimal to percentage. For the stacked area chart, originally there was no sorting by dollar amount. It explained that in the marks card I could select sort from the country drop down menu. From there, I could sort ascending or descending by the field of my choosing.
 
