@@ -25,7 +25,7 @@ For my sketch I split it into two sections - recreating the pie chart and redesi
 
 ## Step four: Test the solution
 
-During the testing phase, I folded my sketch page in half, so that I could present my options for each sketch. First I showed the redesign options for the pie chart, followed by the redesign options for the table. I asked the same questions for each sketch. Following the interview for both sketches, I showed them the original graphics to see if there was any more follow on feedback. I found it most helpful during this period to look at my partners' visualizations because it gave me a new outlook on my own redesigns. I noticed things I did and did not like that I was then able to bring back to my sketches, as well as to theirs.
+During the testing phase, I folded my sketch page in half, so that I could present my options for each sketch. First I showed the redesign options for the pie chart, followed by the redesign options for the table. I asked the same questions for each sketch. Following the interview for both sketches, I showed them the original graphics to see if there was any more follow on feedback. I enjoyed looking at and critiquing my partners' visualizations because it gave me a new perspective on my own redesigns. I noticed things I did and did not like that I was then able to bring back to my sketches, as well as to theirs.
 
 Questions: 
 
