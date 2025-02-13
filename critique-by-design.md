@@ -61,6 +61,8 @@ For the final redesign, I tried to take the feedback I received to produce the b
 
 Another thing I struggled with in the redesign was formatting the data correctly so that Tableau could properly display it. I had to clean up the data I pulled from SIPRI quite a few times, and found the solution by having a long form table. This is something I am grateful to have learned now so that for the final project visualizations, I will know how to best organize the data for Tableau. 
 
+Overall, I believe the final product was a big improvement from the original visualizations as well as from my sketches. The in-class critique was definitely the most useful aspect of this exercise. Besides providing feedback, it was a good opportunity for group members to brainstorm together for everyone's designs. I think my redesigns are representative of the critiques I received, though I know there is always room for more improvement.
+
 ### <a href = "https://public.tableau.com/shared/K84Z3BK2F?:display_count=n&:origin=viz_share_link" target="_blank">World's Biggest Military Spenders</a>
 
 <div class='tableauPlaceholder' id='viz1739414989453' style='position: relative'>
