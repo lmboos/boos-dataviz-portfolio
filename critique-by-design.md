@@ -63,48 +63,48 @@ Another thing I struggled with in the redesign was formatting the data correctly
 
 Overall, I believe the final product was a big improvement from the original visualizations as well as from my sketches. The in-class critique was definitely the most useful aspect of this exercise. Besides providing feedback, it was a good opportunity for group members to brainstorm together for everyone's designs. I think my redesigns are representative of the critiques I received, though I know there is always room for more improvement.
 
-### <a href = "https://public.tableau.com/shared/K84Z3BK2F?:display_count=n&:origin=viz_share_link" target="_blank">World's Biggest Military Spenders</a>
+### <a href = "https://public.tableau.com/views/TheWorldsBiggestMilitarySpenders_17394118942380/MilitarySpenderDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">World's Biggest Military Spenders</a>
 
-<div class='tableauPlaceholder' id='viz1739414989453' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1739420102322' style='position: relative'>
   <noscript><a href='#'>
-    <img alt='Military Spender Dashboard ' 
-      src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J4&#47;J4WCPH5TY&#47;1_rss.png' 
+    <img alt='Military Spender Dashboard'      src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheWorldsBiggestMilitarySpenders_17394118942380&#47;MilitarySpenderDashboard&#47;1_rss.png' 
       style='border: none' />
   </a>
   </noscript>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
     <param name='embed_code_version' value='3' /> 
-    <param name='path' value='shared&#47;J4WCPH5TY' /> 
+    <param name='site_root' value='' />
+    <param name='name' value='TheWorldsBiggestMilitarySpenders_17394118942380&#47;MilitarySpenderDashboard' />
+    <param name='tabs' value='no' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J4&#47;J4WCPH5TY&#47;1.png' /> 
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheWorldsBiggestMilitarySpenders_17394118942380&#47;MilitarySpenderDashboard&#47;1.png' /> 
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
     <param name='language' value='en-US' />
-    <param name='filter' value='publish=yes' />
-    <param name='ignore_sticky_session' value='yes' />
   </object>
 </div>                
 
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1739414989453');                    
+  var divElement = document.getElementById('viz1739420102322');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   if ( divElement.offsetWidth > 800 ) { 
-    vizElement.style.width='1000px';vizElement.style.height='827px';
+    vizElement.style.width='1000px';
+    vizElement.style.height='827px';
   } else if ( divElement.offsetWidth > 500 ) { 
     vizElement.style.width='1000px';
     vizElement.style.height='827px';
-  } else { 
-    vizElement.style.width='100%';
-    vizElement.style.height='977px';
-  }                     
+  } else { vizElement.style.width='100%';
+          vizElement.style.height='977px';
+         }                     
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 ## References
 Conte, Niccolo. “Ranked: Top 10 Countries by Military Spending.” Visual Capitalist, Visual Capitalist, 18 Aug. 2022, www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/. 
