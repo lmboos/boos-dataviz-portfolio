@@ -67,8 +67,7 @@ Overall, I believe the final product was a big improvement from the original vis
 
 <div class='tableauPlaceholder' id='viz1739420102322' style='position: relative'>
   <noscript><a href='#'>
-    <img alt='Military Spender Dashboard'      src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheWorldsBiggestMilitarySpenders_17394118942380&#47;MilitarySpenderDashboard&#47;1_rss.png' 
-      style='border: none' />
+    <img alt='Military Spender Dashboard' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheWorldsBiggestMilitarySpenders_17394118942380&#47;MilitarySpenderDashboard&#47;1_rss.png' style='border: none' />
   </a>
   </noscript>
   <object class='tableauViz'  style='display:none;'>
@@ -97,9 +96,10 @@ Overall, I believe the final product was a big improvement from the original vis
   } else if ( divElement.offsetWidth > 500 ) { 
     vizElement.style.width='1000px';
     vizElement.style.height='827px';
-  } else { vizElement.style.width='100%';
-          vizElement.style.height='977px';
-         }                     
+  } else { 
+    vizElement.style.width='100%';
+    vizElement.style.height='977px';
+  }                     
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
