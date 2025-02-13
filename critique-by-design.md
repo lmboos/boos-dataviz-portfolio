@@ -13,16 +13,13 @@ After browsing several Makeover Monday visuals, I decided on a visual that has s
   <img src="Original Visual 2.png" width="400"/>
 </div>
 
-https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
-
-https://www.sipri.org/databases/milex
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+For the critique portion of this exercise, I completed a Google Form where I rated the visual on a sliding scale, as well as with short responses. The primary critiques I had of the visuals were that the color scheme and shapes on the pie chart added no value. At first, I thought the color scheme was a type of gradient with darker green indicating greater spending and vice versa. However, after looking closer, the colors did not have any clear association with the countries. Also, a pie chart should be split into slices, but instead he had obscure shapes that made it harder for me to grasp the size differences. Finally, his incorporation of a table I thought was a good idea to further support his pie chart, but then I realized he only included data for half of the countries. 
 
 ## Step three: Sketch a solution
+For my sketch I split it into two sections - recreating the pie chart and redesigning the table to show trends. I had two ideas for each sketch as shown below.
+
+
 
 ## Step four: Test the solution
 
@@ -60,7 +57,9 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
+
+https://www.sipri.org/databases/milex
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
