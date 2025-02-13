@@ -39,7 +39,7 @@ Questions:
 
 5. After seeing the original graphics, do you have any additional comments or feedback?
 
-Results: 
+**Results**: 
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
@@ -53,10 +53,14 @@ Results:
 | 4b         | What is the point of the trends? Does it provide the viewer any additional information?             | Nothing signficant            | Work on a descriptive title (again)            |
 | 5         | Nothing significant            | Try to do an interactive world map over time in tableau like we did with the in class exercise           | Improvement from the beginning            |
 
-Synthesis: 
-The most common critique I had was suggestions on how to utilize a different chart. I was inspired by the interactive world map idea after the inteviewee showed me an example of what that could look like. Along with taking two visualizations and turning it into one, the next biggest critique I had was to work on titles to grab viewers attention. 
+**Synthesis**: 
+The most common critique I had was suggestions on how to utilize a different chart. I was inspired by the interactive world map idea after the inteviewee showed me an example of what that could look like. To implement this, there would be a symbol map on top with a line chart below it to present trends over time. Along with taking two visualizations and turning it into one, the next biggest critique I had was to work on titles to grab viewers attention. 
 
 ## Step five: build the solution
+For the final redesign, I tried to take the feedback I received to produce the best result. I did not quite get it to where I wanted it to go, but I think with more practice in tableau, I would have been more successful. Rather than have one combined interactive visual, I did manage to do an interactive symbol map, along with a stacked area chart to display spending trends over time. I would have loved to have them move in sync over the years, but I did not figure out how to accomplish that with the stacked area chart. I did look at doing a line plot to present the trends over time, though the feedback from interviewee 3 held true that having 10 separate lines made it confusing. For the symbol map, it is challenging to see the changes in size of the circles over 2017-2023 though. However, I think if I pulled data across several decades the changes might have been more drastic. 
+
+Another thing I struggled with in the redesign was formatting the data correctly so that Tableau could properly display it. I had to clean up the data I pulled from SIPRI quite a few times, and found the solution by having a long form table. This is something I am grateful to have learned now so that for the final project visualizations, I will know how to best organize the data for Tableau. 
+
 ### <a href = "https://public.tableau.com/shared/K84Z3BK2F?:display_count=n&:origin=viz_share_link" target="_blank">World's Biggest Military Spenders</a>
 
 <div class='tableauPlaceholder' id='viz1739414989453' style='position: relative'>
@@ -99,8 +103,6 @@ The most common critique I had was suggestions on how to utilize a different cha
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
 Conte, Niccolo. “Ranked: Top 10 Countries by Military Spending.” Visual Capitalist, Visual Capitalist, 18 Aug. 2022, www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/. 
