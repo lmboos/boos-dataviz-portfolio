@@ -1,4 +1,4 @@
-| [home page]([https://lmboos.github.io/boos-dataviz-portfolio/]) | [data viz examples](dataviz-examples.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](https://lmboos.github.io/boos-dataviz-portfolio/) | [data viz examples](dataviz-examples.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Redesign of "The World's Biggest Military Spenders"
 
