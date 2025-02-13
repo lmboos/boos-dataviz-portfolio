@@ -3,8 +3,18 @@
 # Redesign of "The World's Biggest Military Spenders"
 
 ## Step one: the visualization
+After browsing several Makeover Monday visuals, I decided on a visual that has significance to me. As a member of the US Army, I was intrigued by the military spending visual. It was no surprise to see the United States as the biggest spender, but I did not realize by how much. A few countries in the top 10 were surprising as well, like India and the United Kingdom. The source website had two visuals to depict the military spending. First, a unique take on a pie chart for spending in 2021. Then, there was a supporting table showing spending from 2017 to 2021, but only for half of the top 10 nations that are included in the first chart. 
+
+<div align="center">
+  <img src="Original Visual 1.jpg" width="400"/>
+</div>
+
+<div align="center">
+  <img src="Original Visual 2o.jpg" width="400"/>
+</div>
 
 https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
+
 https://www.sipri.org/databases/milex
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
