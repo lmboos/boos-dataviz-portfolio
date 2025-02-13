@@ -25,34 +25,36 @@ For my sketch I split it into two sections - recreating the pie chart and redesi
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+During the testing phase, I folded my sketch page in half, so that I could present my options for each sketch. First I showed the redesign options for the pie chart, followed by the redesign options for the table. I asked the same questions for each sketch. Following the interview for both sketches, I showed them the original graphics to see if there was any more follow on feedback. I found it most helpful during this period to look at my partners' visualizations because it gave me a new outlook on my own redesigns. I noticed things I did and did not like that I was then able to bring back to my sketches, as well as to theirs.
 
-Questions to ask (modify these for your own interviews): 
+Questions: 
 
-- Can you tell me what you think this is?
+1. Can you tell me what you think this chart represents?
 
-- Can you describe to me what this is telling you?
+2. Which of these two chart options do you believe is most effective at telling a story?
 
-- Is there anything you find surprising or confusing?
+3. Is there anything you would change or do differently?
+   
+4. Is there anything you find confusing?
 
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+5. After seeing the original graphics, do you have any additional comments or feedback?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+| 1a         | Military expenditure            | Military expenditure            | Military expenditure             |
+| 2a         | Pie chart because stacked area would make more sense when considering multiple year duration            | Pie Chart because it is a good tool to break up whole into multiple parts            | Pie Chart            |
+| 3a         | Nothing significant             | Consider a tree map or bubble chart over pie chart            | Nothing significant            |
+| 4a         | There are a lot of tiny slices which can be confusing            | Nothing signficant            | Work on a descriptive title            |
+| 1b         | Military spending over time           | Military spending over time            | Military spending over time             |
+| 2b         | Line plot            | Line plot            | Stacked bar chart because do not want to see multiple overlapping lines and it will be easy to compare the differences between countries with this option.            |
+| 3b         | Nothing significant             | Nothing significant            | Nothing significant            |
+| 4b         | What is the point of the trends? Does it provide the viewer any additional information?             | Nothing signficant            | Work on a descriptive title (again)            |
+| 5         | Nothing significant            | Try to do an interactive world map over time in tableau like we did with the in class exercise           | Improvement from the beginning            |
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The most common critique I had was suggestions on how to utilize a different chart. I was inspired by the interactive world map idea after the inteviewee showed me an example of what that could look like. Along with taking two visualizations and turning it into one, the next biggest critique I had was to work on titles to grab viewers attention. 
 
 ## Step five: build the solution
 ### <a href = "https://public.tableau.com/shared/K84Z3BK2F?:display_count=n&:origin=viz_share_link" target="_blank">World's Biggest Military Spenders</a>
@@ -101,10 +103,10 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
+Conte, Niccolo. “Ranked: Top 10 Countries by Military Spending.” Visual Capitalist, Visual Capitalist, 18 Aug. 2022, www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/. 
 
-https://www.sipri.org/databases/milex
+"SIPRI Military Expenditure Database 2024, https://www.sipri.org/databases/milex" 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I utilized ChatGPT to help guide me on some of the tableau functionalities when I got stuck. For the symbol map, originally the percentages were displayed as decimals so I asked how I would fix that and it explained when I right click on the percentage, choose format, and in the numbers section I changed it from decimal to percentage. For the stacked area chart, originally there was no sorting by dollar amount. It explained that in the marks card I could select sort from the country drop down menu. From there, I could sort ascending or descending by the field of my choosing.
 
