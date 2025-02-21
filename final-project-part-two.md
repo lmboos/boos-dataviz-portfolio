@@ -46,7 +46,7 @@ As I received feedback, I would try to implement it, so the table below may incl
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Defining concrete persona | I will reword the text of each section so that it is not about me / generalized, but rather the person going on this trip |
-| Interactivity             | Work with the matrix in particular to see if users can edit it                                              |
+| Interaction            | Work with the matrix in particular to see if users can edit it                                              |
 | Refine visualizations     | Use color and attention grabbing visuals to keep the viewers engaged                                        |
 | Get creative with visualizing  | With proximity and activity sections, there might be betters ways to have the final visual instead of line and pie chart respectively     |
 
@@ -54,9 +54,13 @@ The largest challenge I am facing is figuring out how to present what I see in m
 
 ## References
 [Entrance Fees by Park](https://www.nps.gov/aboutus/entrance-fee-prices.htm?park=&state=&entrancePassRequired=&timedEntry=&page=1&parking=)
+
 [Yellowstone Reservations](https://www.nps.gov/yell/planyourvisit/permitsandreservations.htm)
+
 [Crater Lake Reservations](https://www.nps.gov/crla/planyourvisit/permits.htm)
+
 [Smoky Mountains Reservations](https://www.nps.gov/grsm/planyourvisit/permitsandreservations.htm)
+
 [Big Bend Reservations](https://www.nps.gov/bibe/planyourvisit/permitsandreservations.htm)
 
 
