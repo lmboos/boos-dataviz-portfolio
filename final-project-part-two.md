@@ -1,15 +1,15 @@
 | [home page](https://lmboos.github.io/boos-dataviz-portfolio/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project III](final-project-part-three.md) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
+# Storyboard
 For my storyboard, I began creating the Shorthand draft of my final presentation. The primary focus was to have a format of where each section would go. Once that was established, I began working on the visualizations to support each section. Here is the storyboard link to see the progress so far:
+
+[Find Your Perfect National Park Destination](https://preview.shorthand.com/2fsfW7ycgeU0jpVf)
 
 
 # User research 
 
 ## Target audience
-The audience for my story is travel / nature loving college and graduate students. I want to motivate people to explore the United States' natural beauty and believe the college / graduate student demographic is the best people for that given the extensive summer break. At the end of the day, I would like my audience to be able to adapt the planning strategy to their own life, so the decision matrix and categories could apply to future national park destination planning. 
+The audience for my story is travel and nature loving college / graduate students. I want to motivate people to explore the United States' natural beauty and believe the student demographic is the best people for that given the extensive summer break. In the end, I would like my audience to be able to adapt the planning strategy and decision matrix to their own national park travel in the future. 
 
 ## Interview script
 
@@ -29,11 +29,11 @@ Interview 5 - MISM-BIDA student, not in TSWD class
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 | Interview 4 | Interview 5 |
 |-------------------------|--------------------------------|-------------|-------------| ----------- | ----------- |
-| Is there a better way to define the audience in the introduction? | Insightful feedback            |             |             |             |             |
-| How much text should be included in each section?                       |                                |             |             |             |             |
-| What is the best way to tie in the current NPS cuts into my call to action?                        |                                |             |             |             |             |
-| What changes would you make to the decision matrix?  |                                |             |             |             |             |
-| Any other insights on how to improve the visualizaton aspect?  |                                |             |             |             |             |
+| Is there a better way to define the audience in the introduction? | N/A            | N/A             | N/A            | In the intro identify the audience as college students            | Define a persona and stick with it throughout the story            |
+| How much text should be included in each section?                       | Focus on visuals and only add text to support                               | N/A            | N/A            | Text is a good tool for more complicated visuals            | Text does not hurt, but apply it only as necessary to aid understanding, but visuals should not be reliant on it            |
+| What is the best way to tie in the current NPS cuts into my call to action?                        | N/A                               | Make the planning tools available to viewer             | N/A            | Reference NPS and NPCA in call to action section            | N/A            |
+| What changes would you make to the decision matrix?  | N/A                               | Make it interactive so people can alter the matrix weights as they prefer            | No changes - appreciates the selection criteria            | In the final decision, consider visually representing it with radar charts rather than just the matrix            | Add a blank spot for another park and highlight winner in final section           |
+| Any other insights on how to improve the visualizaton aspect?  | Keep the table of contents and consider adding tabs to the top like we saw in class                               | As much interactivity as possible            | Break up each section with a header rather than jumping right into it            | N/A            | In proximity section break up sements using color in addition to distance            |
 
 
 # Identified changes for Part III
@@ -41,19 +41,20 @@ As I received feedback, I would try to implement it, so the table below may incl
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Defining concrete persona | I will reword the text of each section so that it is not about me / generalized, but rather the person going on this trip |
+| Interactivity             | Work with the matrix in particular to see if users can edit it                                              |
+| Refine visualizations     | Use color and attention grabbing visuals to keep the viewers engaged                                        |
+| Get creative with visualizing  | With proximity and activity sections, there might be betters ways to have the final visual instead of line and pie chart respectively     |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+The largest challenge I am facing is figuring out how to present what I see in my brain onto Shorthand. I think Shorthand is great tool, but I need a lot more practice to get to the point that I want. I think I have set myself up for success (for the most part) to finish up the project for the final presentation. I will have to add in my visuals and choose how I want to display the activities section, but I am not worried. I am enjoying the flexibility and creativity of this project, and I am excited to see the end results for my classmates.
 
 ## References
-_List any references you used here._
+[Entrance Fees by Park](https://www.nps.gov/aboutus/entrance-fee-prices.htm?park=&state=&entrancePassRequired=&timedEntry=&page=1&parking=)
+[Yellowstone Reservations](https://www.nps.gov/yell/planyourvisit/permitsandreservations.htm)
+[Crater Lake Reservations](https://www.nps.gov/crla/planyourvisit/permits.htm)
+[Smoky Mountains Reservations](https://www.nps.gov/grsm/planyourvisit/permitsandreservations.htm)
+[Big Bend Reservations](https://www.nps.gov/bibe/planyourvisit/permitsandreservations.htm)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+No use of AI.
