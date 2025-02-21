@@ -22,9 +22,13 @@ The audience for my story is travel and nature loving college / graduate student
 
 ## Interview findings
 Interview 1: MISM-BIDA student, part of TSWD class
+
 Interview 2: MISM student, part of TSWD class
+
 Interview 3: MAM student, part of TSWD class
+
 Interview 4: MAM student, TA for TSWD class
+
 Interview 5: MISM-BIDA student, not in TSWD class
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 | Interview 4 | Interview 5 |
