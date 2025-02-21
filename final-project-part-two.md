@@ -6,7 +6,7 @@ For my storyboard, I began creating the Shorthand draft of my final presentation
 [Find Your Perfect National Park Destination](https://preview.shorthand.com/2fsfW7ycgeU0jpVf)
 
 
-# User research 
+# User Research 
 
 ## Target audience
 The audience for my story is travel and nature loving college / graduate students. I want to motivate people to explore the United States' natural beauty and believe the student demographic is the best people for that given the extensive summer break. In the end, I would like my audience to be able to adapt the planning strategy and decision matrix to their own national park travel in the future. 
@@ -40,7 +40,7 @@ Interview 5: MISM-BIDA student, not in TSWD class
 | Any other insights on how to improve the visualizaton aspect?  | Keep the table of contents and consider adding tabs to the top like we saw in class                               | As much interactivity as possible            | Break up each section with a header rather than jumping right into it            | N/A            | In proximity section break up sements using color in addition to distance            |
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
 As I received feedback, I would try to implement it, so the table below may include some changes that already occurred into ones that I will work on prior to the final presentation. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
