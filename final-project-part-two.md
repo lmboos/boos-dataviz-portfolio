@@ -60,5 +60,5 @@ The largest challenge I am facing is figuring out how to present what I see in m
 [Big Bend Reservations](https://www.nps.gov/bibe/planyourvisit/permitsandreservations.htm)
 
 
-## AI acknowledgements
+## AI Acknowledgements
 No use of AI.
