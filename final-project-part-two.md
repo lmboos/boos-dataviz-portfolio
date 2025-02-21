@@ -41,8 +41,6 @@ Interview 5: MISM-BIDA student, not in TSWD class
 
 
 # Identified Changes for Part III
-As I received feedback, I would try to implement it, so the table below may include some changes that already occurred into ones that I will work on prior to the final presentation. 
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Defining concrete persona | I will reword the text of each section so that it is not about me / generalized, but rather the person going on this trip |
