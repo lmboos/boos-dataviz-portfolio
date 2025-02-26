@@ -29,6 +29,6 @@ I used generative AI to adjust my visualizations' embed codes. When I originally
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+One thing I realized is that everyone will have different opinions and thoughts on how data should be represented, but that does not mean you need to follow their advice. Whether it is an issue of time, preference, or not fitting your goal, it is ok to stick to what you think is best for your story.
 
 
