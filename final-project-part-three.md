@@ -3,8 +3,6 @@
 # The final data story
 [Find Your Perfect National Park Destination](https://carnegiemellon.shorthandstories.com/national-park-planner/index.html) 
 
-Text here!
-
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
