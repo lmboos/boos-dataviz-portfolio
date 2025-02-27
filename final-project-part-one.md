@@ -1,4 +1,4 @@
-| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples.md) | [Critique By Design](critique-by-design.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt.md) | [Sketches](sketches.md) | [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # Final Project Part I
 
