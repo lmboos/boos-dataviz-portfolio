@@ -6,7 +6,7 @@
 ### <a href = "https://public.tableau.com/views/NewsMedia/PackedBubbles?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Trust in News Organizations</a>
 For this exercise, I used Tableau.
 
-<div class='tableauPlaceholder' id='viz1738025359933' style='position: center'>
+<div class='tableauPlaceholder' id='viz1738025359933' style='position: relative'>
   <noscript><a href='#'>
     <img alt='Trust in News OrganizationsSource: Simmons Research ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewsMedia&#47;PackedBubbles&#47;1_rss.png' 
       style='border: none' />
@@ -75,19 +75,19 @@ For this exercise, I used Tableau.
 For this exercise, I used DataWrapper.
 
 <div align="center">
-  <img src = "Urban Mobility Challenge.png" width = "200"/>
+  <img src = "Urban Mobility Challenge.png" width = "600"/>
 </div>
 
 ## Challenge Exercise - Visualize Passengers from the Titanic
 For this exercise, I chose to visualize survival by a 'convex hull' chart. I compared class and age with grouping by survival. If you look closely enough, it appears the younger population had better survival rates than the older. Also, third class had significantly more deaths than first and second class. For this visual, I used the RAWGraphs website.
 
 <div align="center">
-  <img src="Titanic Survival.png" width="400"/>
+  <img src="Titanic Survival.png" width= "600"/>
 </div>
 
 ## Challenge Exercise - Visualize Link and Node Data using Kepler.gl
 For this exercise, I tried to filter the arcs based on the town/neighborhood that the food was being delivered. I wanted to shorten the time frame to focus around college graduation, but you would have to zoom in to see if universities had higher delivery rates than normal. 
 
 <div align="center">
-  <img src="412 Food Rescue Visualization - Kepler.png" width="600"/>
+  <img src="412 Food Rescue Visualization - Kepler.png" width= "600"/>
 </div>
