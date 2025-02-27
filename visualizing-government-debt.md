@@ -1,3 +1,5 @@
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Sketches](sketches.md) | [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+
 ### <a href="https://public.tableau.com/app/profile/lauren.boos7787/viz/GovernmentDebtOriginal/GovernmentDebtVisualization" target="_blank">Visualizing Government Debt Original</a>
 
 <div class='tableauPlaceholder' id='viz1738025151272' style='position: relative'>
