@@ -2,6 +2,13 @@
 
 # In-Class Data Visualizations
 
+## Challenge Exercise - Data Viz Redesign
+For this exercise, I used DataWrapper.
+
+<div align="center">
+  <img src = "Urban Mobility Challenge.png" width = "600"/>
+</div>
+
 ## Challenge Exercise - Visualize the Gapminder
 ### <a href = "https://public.tableau.com/views/NewsMedia/PackedBubbles?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Trust in News Organizations</a>
 For this exercise, I used Tableau.
@@ -70,13 +77,6 @@ For this exercise, I used Tableau.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-## Challenge Exercise - Data Viz Redesign
-For this exercise, I used DataWrapper.
-
-<div align="center">
-  <img src = "Urban Mobility Challenge.png" width = "600"/>
-</div>
 
 ## Challenge Exercise - Visualize Passengers from the Titanic
 For this exercise, I chose to visualize survival by a 'convex hull' chart. I compared class and age with grouping by survival. If you look closely enough, it appears the younger population had better survival rates than the older. Also, third class had significantly more deaths than first and second class. For this visual, I used the RAWGraphs website.
