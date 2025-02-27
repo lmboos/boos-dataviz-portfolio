@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Viz Examples](data-viz-examples.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three,md) |
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # In-class Data Visualizations
 
@@ -71,4 +71,15 @@
 </script>
 
 ## Challenge Exercise - Visualize Passengers from the Titanic
+For this exercise, I chose to visualize survival by a 'convex hull' chart. I compared class and age with grouping by survival. If you look closely enough, it appears the younger population had better survival rates than the older. Also, third class had significantly more deaths than first and second class. For this visual, I used the RAWGraphs website.
 
+<div align="center">
+  <img src="Titanic Survival.png" width="400"/>
+</div>
+
+## Challenge Exercise - Visualize Link and Node Data using Kepler.gl
+For this exercise, I tried to filter the arcs based on the town/neighborhood that the food was being delivered. I wanted to shorten the time frame to focus around college graduation, but you would have to zoom in to see if universities had higher delivery rates than normal. 
+
+<div align="center">
+  <img src="412 Food Rescue Visualization - Kepler.png" width="400"/>
+</div>
