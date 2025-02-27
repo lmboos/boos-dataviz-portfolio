@@ -1,5 +1,7 @@
 | [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Sketches](sketches.md) | [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
+The purpose of this exercise was to become familiar with Tableau and to find a story to tell from the visuazliation provided to us. For my story, I wanted to hihglight how the 2008 recession resulted in the Eurozone Crisis.
+
 ### <a href="https://public.tableau.com/app/profile/lauren.boos7787/viz/GovernmentDebtOriginal/GovernmentDebtVisualization" target="_blank">Visualizing Government Debt Original</a>
 
 <div class='tableauPlaceholder' id='viz1738025151272' style='position: relative'>
@@ -90,3 +92,10 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## References:
+OECD. (2007). *Government finance statistics: Revenue, expenditure, and financing*. OECD Data. https://data-explorer.oecd.orgLinks to an external site.
+
+Gabel, M. J. (2025, January 26). European Union. Encyclopedia Britannica. https://www.britannica.com/topic/European-UnionLinks to an external site.
+
+I utilized ChatGPT to assist with highlighting the 2008-2009 bars within the bar chart for part 3. It taught me how to use a calculated field in Tableau to specify where I want to include the highlights. Additionally, it showed me the proper way to code the calculated field. After learning the basics and troubleshooting back and forth with ChatGPT several times, I reached a final solution that I could edit on my own.
