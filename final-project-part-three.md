@@ -1,4 +1,4 @@
-| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Challenge Exercises](challenge-exercises.md) | [critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) 
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Challenge Exercises](challenge-exercises.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) 
 
 # The Final Data Story
 [Find Your Perfect National Park Destination](https://carnegiemellon.shorthandstories.com/national-park-planner/index.html) 
