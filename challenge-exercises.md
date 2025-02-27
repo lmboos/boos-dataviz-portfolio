@@ -6,7 +6,7 @@
 ### <a href = "https://public.tableau.com/views/NewsMedia/PackedBubbles?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Trust in News Organizations</a>
 For this exercise, I used Tableau.
 
-<div class='tableauPlaceholder' id='viz1738025359933' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1738025359933' style='position: center'>
   <noscript><a href='#'>
     <img alt='Trust in News OrganizationsSource: Simmons Research ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewsMedia&#47;PackedBubbles&#47;1_rss.png' 
       style='border: none' />
