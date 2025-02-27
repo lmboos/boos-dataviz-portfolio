@@ -1,4 +1,4 @@
-| [home page](https://lmboos.github.io/boos-dataviz-portfolio/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project III](final-project-part-three.md) |
+| [Home Page](https://lmboos.github.io/boos-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt.md) | [Sketches](sketches.md) | [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project III](final-project-part-three.md) |
 
 # Storyboard
 For my storyboard, I began creating the Shorthand draft of my final presentation. The primary focus was to have a format of where each section would go. Once that was established, I began working on the visualizations to support each section. Here is the storyboard link to see the progress so far:
