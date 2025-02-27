@@ -1,4 +1,4 @@
-| [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [Visualizing Government Debt](visualizing-government-debt.md) | [Sketches](sketches.md) | [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University (CMU).  Here's where all my original and reworked creative data visualizations will go to live. Enjoy exploring!
 
