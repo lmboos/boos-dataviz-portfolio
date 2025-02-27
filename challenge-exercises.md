@@ -81,5 +81,5 @@ For this exercise, I chose to visualize survival by a 'convex hull' chart. I com
 For this exercise, I tried to filter the arcs based on the town/neighborhood that the food was being delivered. I wanted to shorten the time frame to focus around college graduation, but you would have to zoom in to see if universities had higher delivery rates than normal. 
 
 <div align="center">
-  <img src="412 Food Rescue Visualization - Kepler.png" width="400"/>
+  <img src="412 Food Rescue Visualization - Kepler.png" width="600"/>
 </div>
