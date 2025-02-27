@@ -1,4 +1,4 @@
-| [Data Viz Examples](dataviz-examples.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [Challenge Exercises](challenge-exercises.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University (CMU).  Here's where all my original and reworked creative data visualizations will go to live. Enjoy exploring!
 
@@ -19,8 +19,6 @@ I have never considered myself to be a particularly creative person, but in just
 # Portfolio
 ## [Challenge Exercises](challenge-exercises.md)
 
-## In Class Critiques
-
 ## Assignments
 
 ### [Visualizing Government Debt](visualizing-government-debt.md)    
@@ -30,75 +28,13 @@ I have never considered myself to be a particularly creative person, but in just
 ### [Critique by Design](critique-by-design.md)
 
 ## Final Project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Find Your Perfect National Park Destination](https://carnegiemellon.shorthandstories.com/national-park-planner/index.html)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+[Part I](final-project-part-one.md)
+For Part I, the primary focus was choosing a topic and drafting an initial outline of what the final story would look like. As part of this process, it included getting intial datasets to use for visualzations, as well. In class, we did critiques on our classmates ideas prior to submission so that we could make any necessary changes. This process helped to narrow down the story and start thinking about the audience.
 
-### Changing text
+[Part II](final-project-part-two.md)
+For Part II, I moved from an idea to an actual storyboard using Shorthand. This gave us the opportunity to move all our ideas into an actual platform and see how accurate we could represent our story. An integral aspect of this was conducting interivews with peers and classmates for any final adjustments prior to the final part.
 
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+[Part III](final-project-part-three.md)
+For Part III, I had to submit my final story link and give an in-class presentation. There was no further changes after this point, though we did conduct critique forms during each presentation. I can use whatever critiques I recevied for future storytelling.
