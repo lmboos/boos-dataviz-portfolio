@@ -19,5 +19,5 @@ One thing I realized during this design process is that everyone will have diffe
 ## References
 All references used in the creation of my story are listed on the Shorthand story link.
 
-## AI acknowledgements
+## AI Acknowledgements
 I used generative AI to adjust my visualizations' embed codes. When I originally published my tableau graphics, they did not fit the screen, so you had to scroll to see the visual in its entirety. I learned to change width to 100% in the embed code to fix this problem. Additionally, it taught me how to get embed code from an excel file, which is how I made my decision matrix. 
