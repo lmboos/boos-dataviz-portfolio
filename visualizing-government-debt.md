@@ -93,7 +93,7 @@ The purpose of this exercise was to become familiar with Tableau and to find a s
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## References:
+### References:
 OECD. (2007). *Government finance statistics: Revenue, expenditure, and financing*. OECD Data. https://data-explorer.oecd.orgLinks to an external site.
 
 Gabel, M. J. (2025, January 26). European Union. Encyclopedia Britannica. https://www.britannica.com/topic/European-UnionLinks to an external site.
