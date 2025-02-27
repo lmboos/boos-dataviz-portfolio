@@ -31,10 +31,13 @@ I have never considered myself to be a particularly creative person, but in just
 [Find Your Perfect National Park Destination](https://carnegiemellon.shorthandstories.com/national-park-planner/index.html)
 
 [Part I](final-project-part-one.md)
+
 For Part I, the primary focus was choosing a topic and drafting an initial outline of what the final story would look like. As part of this process, it included getting intial datasets to use for visualzations, as well. In class, we did critiques on our classmates ideas prior to submission so that we could make any necessary changes. This process helped to narrow down the story and start thinking about the audience.
 
 [Part II](final-project-part-two.md)
+
 For Part II, I moved from an idea to an actual storyboard using Shorthand. This gave us the opportunity to move all our ideas into an actual platform and see how accurate we could represent our story. An integral aspect of this was conducting interivews with peers and classmates for any final adjustments prior to the final part.
 
 [Part III](final-project-part-three.md)
+
 For Part III, I had to submit my final story link and give an in-class presentation. There was no further changes after this point, though we did conduct critique forms during each presentation. I can use whatever critiques I recevied for future storytelling.
